@@ -17,3 +17,4 @@ backend/chroma_data/
 .next/
 out/
 node_modules/
+test-ignore-me
